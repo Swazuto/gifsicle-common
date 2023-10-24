@@ -2,6 +2,11 @@
 Não possuo autoria nenhuma sobre este projeto, somente o transformei em CommonJS. 
 Informações originais e créditos sobre o repositório estão logo abaixo.
 
+> Como instalar ESTA biblioteca CommonJS:
+```
+$ npm install gifsicle-common
+```
+
 # gifsicle-bin ![GitHub Actions Status](https://github.com/imagemin/gifsicle-bin/workflows/test/badge.svg?branch=main)
 
 > gifsicle manipulates GIF image files in many different ways. Depending on command line options, it can merge several GIFs into a GIF animation; explode an animation into its component frames; change individual frames in an animation; turn interlacing on and off; add transparency and much more.
