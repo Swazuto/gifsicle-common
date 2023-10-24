@@ -33,7 +33,9 @@
 		"compress",
 		"minify",
 		"optimize",
-		"gifsicle"
+		"gifsicle",
+		"commonjs",
+		"common"
 	],
 	"dependencies": {
 		"bin-build": "^3.0.0",
